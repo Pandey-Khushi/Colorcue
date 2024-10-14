@@ -1,0 +1,2 @@
+# Colorcue
+ This project is a color detection tool built using NumPy, Pandas, and OpenCV. It allows users to detect and analyze colors in images by identifying and extracting specific hues, shades, and color ranges. The tool processes images using OpenCV's image recognition techniques, analyzes pixel data with NumPy, and organizes the results using Pandas for efficient color categorization and reporting. It's a versatile application useful for tasks like color-based object detection, image processing, and computer vision projects.
